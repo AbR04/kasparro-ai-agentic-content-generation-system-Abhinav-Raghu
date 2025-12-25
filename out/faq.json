@@ -1,0 +1,34 @@
+{
+  "template": {
+    "name": "faq_page",
+    "version": "1.0"
+  },
+  "title": "FAQs: GlowBoost Vitamin C Serum",
+  "items": [
+    {
+      "category": "Informational",
+      "question": "What is GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is a skincare serum featuring Vitamin C, Hyaluronic Acid."
+    },
+    {
+      "category": "Informational",
+      "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
+      "answer": "Key ingredients listed are: Vitamin C, Hyaluronic Acid."
+    },
+    {
+      "category": "Usage",
+      "question": "How do I use GlowBoost Vitamin C Serum?",
+      "answer": "Apply 2–3 drops in the morning before sunscreen"
+    },
+    {
+      "category": "Safety",
+      "question": "Are there side effects of GlowBoost Vitamin C Serum?",
+      "answer": "Mild tingling for sensitive skin"
+    },
+    {
+      "category": "Purchase",
+      "question": "What is the price of GlowBoost Vitamin C Serum?",
+      "answer": "GlowBoost Vitamin C Serum is a skincare serum featuring Vitamin C, Hyaluronic Acid."
+    }
+  ]
+}

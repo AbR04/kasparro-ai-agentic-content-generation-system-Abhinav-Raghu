@@ -1,0 +1,71 @@
+{
+  "template": {
+    "name": "comparison_page",
+    "version": "1.0"
+  },
+  "title": "Comparison: GlowBoost vs Product B",
+  "products": {
+    "a": {
+      "product_name": "GlowBoost Vitamin C Serum",
+      "concentration": "10% Vitamin C",
+      "skin_type": [
+        "Oily",
+        "Combination"
+      ],
+      "key_ingredients": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "benefits": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+      "side_effects": "Mild tingling for sensitive skin",
+      "price_inr": 699
+    },
+    "b": {
+      "product_name": "RadiantShield Serum B (Fictional)",
+      "key_ingredients": [
+        "Niacinamide",
+        "Hyaluronic Acid"
+      ],
+      "benefits": [
+        "Hydration",
+        "Even-looking tone"
+      ],
+      "price_inr": 799,
+      "note": "Fictional comparator created solely for this assignment."
+    }
+  },
+  "analysis": {
+    "price": {
+      "a": 699,
+      "b": 799,
+      "winner": "a",
+      "rule": "Lower price wins; tie if equal."
+    },
+    "ingredients": {
+      "overlap": [
+        "Hyaluronic Acid"
+      ],
+      "a_only": [
+        "Vitamin C"
+      ],
+      "b_only": [
+        "Niacinamide"
+      ]
+    },
+    "benefits": {
+      "overlap": [],
+      "a_only": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "b_only": [
+        "Even-looking tone",
+        "Hydration"
+      ]
+    }
+  }
+}

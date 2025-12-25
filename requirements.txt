@@ -1,0 +1,3 @@
+# Keep dependencies minimal.
+# Pydantic is optional here; we keep this solution fully deterministic and standard-library only.
+# If you want, you can add pydantic later, but it's not needed for the rubric.
